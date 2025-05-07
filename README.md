@@ -33,7 +33,7 @@ Projekt powstał dla znajomych i młodzieży, ale dostępny jest dla określonyc
 - Działa 24/7 – czas odpowiedzi jest zależny od wydajności serwera (czas odpowiedzi: 6s–48h)
 
 
-![WT-png]([https://images-ext-1.discordapp.net/external/bl_iPsfqq4noogYu5RmA1R7-mq6ficpbifQZnczrczw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1254058669692158034/f9c7181e10d828a3bf90bfd0cc2ab889.png?format=webp&quality=lossless&width=936&height=936](https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg))
+![AI-png](https://i.ibb.co/HTs3tRHC/360-F-397020794-LXE0-WLq-Wxcbh-If2-Uw-Xf-Rt-LJwjw8a-X5-Wj.jpg)
 
 ---
 
@@ -55,6 +55,8 @@ Bot działa w oparciu o:
 - **Własny model AI + API**
 - Integrację z Discordem
 - Lokalny serwer Raspberry Pi 5
+
+![RPI-png](https://www.mouser.pl/images/marketingid/2023/img/143250767.png?v=042425.0937)
 
 ---
 
