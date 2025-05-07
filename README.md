@@ -1,10 +1,10 @@
 # Wirtualny Bot AI - Dokumentacja
 
-**Zaawansowany polski bot AI działający na Discordzie**, który rozumie obrazy, wideo, gify, pisze jak człowiek, zna młodzieżowy slang i potrafi szukać w internecie oraz generować obrazy. Całość działa przez wiadomości prywatne (DM) na Discordzie.
+**Zaawansowany polski Bot AI działający na Discordzie**, który rozumie obrazy, wideo, gify, pisze jak człowiek, zna młodzieżowy slang i potrafi szukać w internecie oraz generować obrazy. Całość działa przez wiadomości prywatne (DM) na Discordzie. Jest to nowoczesne, bezpieczne i wygodne rozwiązanie.
 
 ## Spis treści
-- [Opis](#opis)
-- [Funkcje](#funkcje)
+- [Krótki Opis](#opis)
+- [Funkcje AI](#funkcje-ai)
 - [Jak korzystać](#jak-korzystać)
 - [Technologia](#technologia)
 - [Zespół](#zespół)
@@ -15,36 +15,38 @@
 
 ## Opis
 
-Wirtualny Bot AI to projekt dla każdego, kto szuka ciekawej, zabawnej i inteligentnej rozmowy z botem, który **rozumie młodzieżowy język**, analizuje multimedia i korzysta z internetu, by odpowiadać trafnie i kreatywnie.
+**Wirtualny Bot AI** to projekt, który ma za zadanie pokazać jak przyjemna i ciekawa może być przygoda z AI. Oferujemy AI z dużym poczuciem humoru! Analizuje on też multimedia i korzysta z internetu, by odpowiadać trafnie i kreatywnie.
 
-Projekt powstał z myślą o znajomych i młodzieży, ale dostępny jest dla każdego, kto ma dostęp do bota przez serwer **Wirtualny Team**.
-
----
-
-## Funkcje
-
-- Odpowiada na wiadomości tekstowe jak człowiek
-- Rozpoznaje i analizuje obrazy, wideo i gify
-- Zna polski slang (szczególnie młodzieżowy)
-- Wyszukuje informacje w internecie
-- Generuje własne obrazy
-- Działa 24/7 – z przerwami zależnymi od wydajności serwera (czas odpowiedzi: 6s–48h)
+Projekt powstał dla znajomych i młodzieży, ale dostępny jest dla określonych osób, połączyć sie z botem można przez server  **Wirtualny Team**.
 
 ---
 
-## Jak korzystać
+## Funkcje AI
+
+- Odpowiada na wiadomości tekstowe jak człowiek, z dużym poczuciem humoru oraz z młodzieżowym slangiem.
+- Rozpoznaje i analizuje obrazy, wideo i gify oraz najróżniejsze informacje.
+- Zna polski język potoczny (szczególnie młodzieżowy)
+- Wyszukuje informacje w internecie, oraz wykonuje zewnętrzne zapytania.
+- Generuje obrazy, dowolne treści bez cenzur.
+- Działa 24/7 – czas odpowiedzi jest zależny od wydajności serwera (czas odpowiedzi: 6s–48h)
+
+---
+
+## Jak korzystać?
 
 1. Wejdź na Discordowy serwer **Wirtualny Team**
-2. Napisz wiadomość prywatną do bota
-3. Czekaj na odpowiedź (im lżejszy temat, tym szybciej)
+2. Uzyskaj zgode administratora na używanie AI.
+3. Napisz wiadomość prywatną do bota
+4. Rozpocznij chat
+5. Gotowe!
 
-> **Uwaga:** Bot działa na Raspberry Pi 5 i obsługuje wielu użytkowników, więc może być chwilowa kolejka.
+> **Uwaga:** Bot działa na Raspberry Pi 5 i obsługuje wielu użytkowników, więc może być chwilowa kolejka. 
 
 ---
 
 ## Technologia
 
-Szczegóły implementacji są poufne. Bot działa w oparciu o:
+Bot działa w oparciu o:
 - **Własny model AI + API**
 - Integrację z Discordem
 - Lokalny serwer Raspberry Pi 5
@@ -53,13 +55,13 @@ Szczegóły implementacji są poufne. Bot działa w oparciu o:
 
 ## Zespół
 
-Projekt prowadzony przez:  
-**pawelgaweltv**  
-Twórca, administrator i właściciel całej infrastruktury.  
-Zespół wspierany przez **Wirtualny Team Technology**.
+Projekt prowadzony przez:  **pawelgaweltv**  
+Twórca, administrator i właściciel całego projektu.  
+AI należy do **Wirtualny Team Technology**.
+Właścicielem Wirtualny Team Technology jest pawelgaweltv.
 
 Masz pytanie lub pomysł?  
-Skontaktuj się z administratorem (pawelgaweltv) przez Discord.
+Skontaktuj się z administratorem.
 
 ---
 
