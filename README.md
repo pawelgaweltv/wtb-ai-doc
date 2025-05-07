@@ -78,6 +78,21 @@ Skontaktuj się z administratorem.
 Z botem mogą rozmawiać wyłącznie osoby upoważnione przez administrację.
 Kopiowanie, modyfikowanie, ani rozpowszechnianie żadnej części projektu bez zgody jest zabronione.
 
+---
+
+## Plany
+
+| Plan         | Cena za tydzień  | Funkcje                                                                                  | Ograniczenia / Uwagi                      |
+|--------------|------------------|-------------------------------------------------------------------------------------------|-------------------------------------------|
+| 🔓 **FREE**      | 0 pkt           | - Kilka darmowych analiz (ważne przez 4h) <br> - Rozmowa z botem na PV (czas ograniczony) <br> - Widzenie obrazów i załączników (limit 3, reset po 2h) | Idealny na start                           |
+| 🟡 **PLUS**      | 10 pkt          | - Więcej analiz niż w FREE <br> - Szybsze odpowiedzi <br> - Lepszy priorytet <br> - Większy limit obrazów i załączników <br> - Wszystko z FREE         | Dla aktywnych użytkowników                 |
+| 🟠 **PREMIUM**   | 20 pkt          | - Jeszcze szybsze analizy <br> - Nielimitowane obrazy i załączniki <br> - Dostęp do nowych funkcji <br> - Wszystko z PLUS i FREE                    | Więcej funkcji i komfortu                  |
+| 🔴 **PRO**       | 30 pkt          | - Dostęp do funkcji niedostępnych w niższych pakietach <br> - Wszystko z PREMIUM, PLUS i FREE                     | Zaawansowane możliwości                    |
+| 💎 **PRO PLUS**  | 35 pkt          | - Nielimitowane analizy <br> - Nielimitowane rozmowy z botem <br> - Nielimitowane obrazy <br> - Możliwość customizacji <br> - Generator obrazów (Beta) <br> - Pluginy (wkrótce) <br> - Wszystko z wcześniejszych pakietów | Pełna moc i przyszłe rozszerzenia          |
+
+
+---
+
 ## Zrzuty ekranu
 
 *Tutaj możesz wkleić screena, GIFa lub mini demo*  
