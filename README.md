@@ -188,6 +188,7 @@ Użytkownik przyjmuje do wiadomości, że:
 
 - Administrator nie ponosi odpowiedzialności za treści generowane przez bota ani za skutki ich wykorzystania przez użytkownika.
 - Bot może generować treści humorystyczne, ironiczne lub niespodziewane – nie należy traktować ich jako porady prawnej, medycznej ani żadnej innej specjalistycznej.
+- W przypadku nadużyć konto może zostać zablokowane ręcznie lub autoamtycznie w dowolnym momentcie. Jeśli podczas blokady masz aktywny plan a twoje odwoładnie do blokady nie zostanie zaakceptowane to twój plan przepada.
 
 ---
 
@@ -205,3 +206,4 @@ Rozpoczęcie korzystania z bota jest równoznaczne z pełną akceptacją niniejs
 > Jeśli nie akceptujesz warunków, nie wcisakj przycisku akcpetacji i rozpczęcia rozmowy.
 
 
+# Dziękujemy za Uwagę!
