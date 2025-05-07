@@ -10,6 +10,7 @@
 - [Zespół](#zespół)
 - [Zrzuty ekranu](#zrzuty-ekranu)
 - [Licencja](#licencja)
+- [Plany](#plany)
 
 ---
 
@@ -97,5 +98,13 @@ Kopiowanie, modyfikowanie, ani rozpowszechnianie żadnej części projektu bez z
 ## Zrzuty ekranu
 
 *Przykładowe odpowiedzi AI / Screeny*  
-```md
-![Zrzut](img/bot-demo.gif)
+
+![Zrzut1](https://i.ibb.co/G3MknsYz/2025-05-07-20-40.png)
+
+![Zrzut2](https://i.ibb.co/0pnW1ScN/image.png)
+
+![Zrzut3](https://i.ibb.co/jPHfWKbx/image.png)
+
+> **Uwaga:** A to tylko przykładowe rozmowy! To AI potrafi wiele wiele więcej! Psst! Ma fajne emotki 😉
+
+---
