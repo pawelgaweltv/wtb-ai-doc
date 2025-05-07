@@ -11,6 +11,7 @@
 - [Zrzuty ekranu](#zrzuty-ekranu)
 - [Licencja](#licencja)
 - [Plany](#plany)
+- [Często zadawane pytania](#częste-pytania)
 
 ---
 
@@ -106,5 +107,44 @@ Kopiowanie, modyfikowanie, ani rozpowszechnianie żadnej części projektu bez z
 ![Zrzut3](https://i.ibb.co/jPHfWKbx/image.png)
 
 > **Uwaga:** A to tylko przykładowe rozmowy! To AI potrafi wiele wiele więcej! Psst! Ma fajne emotki 😉
+
+---
+
+## Częste Pytania
+
+<details>
+<summary><strong>Dlaczego bot nie odpowiada od razu?</strong></summary>
+<p>
+Bot działa na serwerze Raspberry Pi 5, więc czasem może być kolejka. Maksymalny czas oczekiwania to 48h, ale zazwyczaj odpowiada w kilka sekund. Jest to spowodowane tym że Server potrzebuje dużej wydajności. np. ChatGPT wydano miliardy a na WT BOT AI wydano 700 PLN + dodatkowe koszty API oraz Internetu i Prądu.
+</p>
+</details>
+
+<details>
+<summary><strong>Czy muszę płacić za korzystanie z bota?</strong></summary>
+<p>
+Podstawowy plan <strong>FREE</strong> jest całkowicie darmowy. Dostępne są też płatne plany premium za punkty, które zwiększają możliwości bota.
+</p>
+</details>
+
+<details>
+<summary><strong>Jak mogę zdobyć punkty?</strong></summary>
+<p>
+Punkty można zdobywać poprzez aktywność, odpowiedzi na pytania punktowane, oraz fotografie punktowane, lub przyznanie ich w inny sposób.
+</p>
+</details>
+
+<details>
+<summary><strong>Jakie pliki bot potrafi analizować?</strong></summary>
+<p>
+Bot potrafi analizować obrazy (.jpg, .png), gify i wideo (.mp4, .webm). W planie FREE obowiązują limity.
+</p>
+</details>
+
+<details>
+<summary><strong>Czy mogę zaprosić bota na swój serwer?</strong></summary>
+<p>
+Nie, bot działa tylko w wiadomościach prywatnych po dołączeniu do oficjalnego serwera <strong>Wirtualny Team</strong>. Jeżeli użyjesz go poza serverem złamiesz regulamin i możesz zostać ukarany(a) !
+</p>
+</details>
 
 ---
