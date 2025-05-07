@@ -56,7 +56,7 @@ Bot działa w oparciu o:
 - Integrację z Discordem
 - Lokalny serwer Raspberry Pi 5
 
-![RPI-png](https://www.mouser.pl/images/marketingid/2023/img/143250767.png?v=042425.0937)
+![RPI-png](https://i.ibb.co/VYj3Fmvb/raspberry-pi-5-removebg-preview.png)
 
 ---
 
