@@ -178,10 +178,9 @@ Użytkownik przyjmuje do wiadomości, że:
 - Wszystkie dane mogą być **trwale przechowywane w bazie danych projektu**.
 - Dane mogą być użyte do: **szkolenia modeli AI, analizy jakości usług, rozwoju projektu i celów komercyjnych**.
 - Dane mogą zostać użyte w dowolnych celach 
-- Dane mogą być **przekazywane podmiotom trzecim**, partnerom, usługodawcom, markom lub systemom zewnętrznym w celu dalszego przetwarzania.
-- Administrator ma prawo **zarządzać tymi danymi według uznania**, pod warunkiem zachowania zgodności z prawem.
-- Dane mogą być **przechowywane bezterminowo**, chyba że użytkownik zażąda ich usunięcia.
-- Użytkownik ma prawo żądać **wglądu do danych, ich poprawienia lub całkowitego usunięcia** – zgodnie z przepisami o ochronie danych osobowych.
+- Dane mogą być **przekazywane podmiotom trzecim**, partnerom, usługodawcom, markom lub systemom zewnętrznym.
+- Administrator ma prawo **zarządzać tymi danymi według uznania**.
+- Dane mogą być **przechowywane bezterminowo**, danych **nie da się** usunąć.
 
 ---
 
@@ -195,7 +194,7 @@ Użytkownik przyjmuje do wiadomości, że:
 ### 4. Zmiany w regulaminie
 
 - Administrator zastrzega sobie prawo do zmiany regulaminu w dowolnym momencie.
-- O wszelkich zmianach użytkownicy będą informowani przez aktualizację w README.md lub komunikat w serwerze Discord.
+- O wszelkich zmianach użytkownicy będą informowani przez powiadomienie (jeśłi użytkownik wyraził na nie zgodę) oraz Ogłoszenie.
 
 ---
 
@@ -203,6 +202,6 @@ Użytkownik przyjmuje do wiadomości, że:
 
 Rozpoczęcie korzystania z bota jest równoznaczne z pełną akceptacją niniejszego regulaminu i umowy użytkownika.
 
-> Jeśli nie akceptujesz warunków, nie korzystaj z bota i opuść wiadomość prywatną.
+> Jeśli nie akceptujesz warunków, nie wcisakj przycisku akcpetacji i rozpczęcia rozmowy.
 
 
