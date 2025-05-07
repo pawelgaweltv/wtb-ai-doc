@@ -84,7 +84,7 @@ Kopiowanie, modyfikowanie, ani rozpowszechnianie żadnej części projektu bez z
 
 | Plan         | Cena za tydzień  | Funkcje                                                                                  | Ograniczenia / Uwagi                      |
 |--------------|------------------|-------------------------------------------------------------------------------------------|-------------------------------------------|
-| 🔓 **FREE**      | 0 pkt           | - Kilka darmowych analiz (resetuje sie co kilka godz.) <br> - Rozmowa z botem na PV (czas ograniczony) <br> - Widzenie obrazów i załączników (ograniczone, resetuje sie co kilka godz.) | Idealny na start                           |
+| 🔓 **FREE**      | 0 pkt           | - Kilka darmowych analiz (resetuje sie co kilka godz.) <br> - Rozmowa z botem na PV (czas ograniczony) <br> - Widzenie obrazów i załączników (ograniczone, resetuje sie co kilka godz.) <br> - Limit jednego obrazu z Generatora | Idealny na start                           |
 | 🟡 **PLUS**      | 10 pkt          | - Więcej analiz niż w FREE <br> - Priorytetowe Szybsze Odpowiedzi  <br> - Większy limit obrazów i załączników <br> - Wszystko co pakiet FREE         | Dla aktywnych użytkowników                 |
 | 🟠 **PREMIUM**   | 20 pkt          | - Jeszcze szybsze i dokładniejsze analizy <br> - Nielimitowane obrazy i załączniki <br> - Dostęp do nowych funkcji <br> - Wszystko z PLUS i FREE                    | Więcej funkcji i komfortu                  |
 | 🔴 **PRO**       | 30 pkt          | - Dostęp do funkcji niedostępnych w słabszych pakietach <br> - Wszystko z PREMIUM, PLUS i FREE <br> - Ograniczony generator obrazów                    | Zaawansowane możliwości                    |
@@ -96,6 +96,6 @@ Kopiowanie, modyfikowanie, ani rozpowszechnianie żadnej części projektu bez z
 
 ## Zrzuty ekranu
 
-*Tutaj możesz wkleić screena, GIFa lub mini demo*  
+*Przykładowe odpowiedzi AI / Screeny*  
 ```md
 ![Zrzut](img/bot-demo.gif)
