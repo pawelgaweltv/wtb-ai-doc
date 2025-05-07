@@ -19,6 +19,8 @@
 
 Projekt powstał dla znajomych i młodzieży, ale dostępny jest dla określonych osób, połączyć sie z botem można przez server  **Wirtualny Team**.
 
+![WT-png](https://images-ext-1.discordapp.net/external/bl_iPsfqq4noogYu5RmA1R7-mq6ficpbifQZnczrczw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1254058669692158034/f9c7181e10d828a3bf90bfd0cc2ab889.png?format=webp&quality=lossless&width=936&height=936)
+
 ---
 
 ## Funkcje AI
@@ -29,6 +31,9 @@ Projekt powstał dla znajomych i młodzieży, ale dostępny jest dla określonyc
 - Wyszukuje informacje w internecie, oraz wykonuje zewnętrzne zapytania.
 - Generuje obrazy, dowolne treści bez cenzur.
 - Działa 24/7 – czas odpowiedzi jest zależny od wydajności serwera (czas odpowiedzi: 6s–48h)
+
+
+![WT-png]([https://images-ext-1.discordapp.net/external/bl_iPsfqq4noogYu5RmA1R7-mq6ficpbifQZnczrczw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1254058669692158034/f9c7181e10d828a3bf90bfd0cc2ab889.png?format=webp&quality=lossless&width=936&height=936](https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg))
 
 ---
 
@@ -64,6 +69,12 @@ Masz pytanie lub pomysł?
 Skontaktuj się z administratorem.
 
 ---
+
+## Licencja
+
+**Wszelkie prawa zastrzeżone.**
+Z botem mogą rozmawiać wyłącznie osoby upoważnione przez administrację.
+Kopiowanie, modyfikowanie, ani rozpowszechnianie żadnej części projektu bez zgody jest zabronione.
 
 ## Zrzuty ekranu
 
