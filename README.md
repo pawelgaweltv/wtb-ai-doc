@@ -148,3 +148,61 @@ Nie, bot działa tylko w wiadomościach prywatnych po dołączeniu do oficjalneg
 </details>
 
 ---
+
+## Regulamin i Umowa Użytkownika
+
+Poniższy regulamin dotyczy korzystania z bota Wirtualny Bot AI działającego na platformie Discord, stworzonego przez Wirtualny Team Technology.
+
+### 1. Postanowienia ogólne
+
+- Użytkownik wciskując przycisk "Rozpocznij Rozmowę" gdzie jest link do tej umowy wyraża zgodę na niniejszy regulamin i warunki korzystania. Umowy i danych nie da się wycofać lub usunąć rozważ to przed użyciem naszej usługi. Umowe zatwierdza się przyciskiem raz na zawsze.
+- Bot Wirtualny Bot AI jest dostępny wyłącznie przez wiadomości prywatne po dołączeniu do serwera **Wirtualny Team**.
+- Funkcje bota są udostępniane zgodnie z aktywnym planem (FREE, PLUS, PREMIUM, PRO, PRO PLUS).
+- Użytkownik zobowiązuje się nie nadużywać funkcji bota ani nie próbować ingerować w jego działanie.
+
+---
+
+### 2. Polityka danych i zgoda użytkownika
+
+Poprzez rozpoczęcie rozmowy z botem, użytkownik wyraża zgodę na przetwarzanie i wykorzystywanie następujących kategorii danych:
+
+- **Treści wiadomości tekstowych** (w tym dane osobowe, jeśli zostaną podane, oraz inne wiadomości z discorda)
+- **Pliki graficzne i wideo** (obrazy, zdjęcia, filmy, zrzuty ekranu, gify itp oraz Live CAM i inne funkcje typu Live Face ID)
+- **Dźwięk i nagrania audio**, jeżeli są przesyłane, lub usługa jest uruchomiona w tle.
+- **Dokładne i Przybliżone Dane lokalizacyjne** (gdzie usługa jest uruchomiona)
+- **Dane kontaktowe** zawarte w przesyłanych plikach lub wiadomościach lub w kontaktach (jeśli zezwolono na te dane telemetryczne)
+- **Metadane techniczne**, takie jak czas wiadomości, identyfikator użytkownika Discord, adres IP, wersja i nazwa klienta itp.
+
+Użytkownik przyjmuje do wiadomości, że:
+
+- Wszystkie dane mogą być **trwale przechowywane w bazie danych projektu**.
+- Dane mogą być użyte do: **szkolenia modeli AI, analizy jakości usług, rozwoju projektu i celów komercyjnych**.
+- Dane mogą zostać użyte w dowolnych celach 
+- Dane mogą być **przekazywane podmiotom trzecim**, partnerom, usługodawcom, markom lub systemom zewnętrznym w celu dalszego przetwarzania.
+- Administrator ma prawo **zarządzać tymi danymi według uznania**, pod warunkiem zachowania zgodności z prawem.
+- Dane mogą być **przechowywane bezterminowo**, chyba że użytkownik zażąda ich usunięcia.
+- Użytkownik ma prawo żądać **wglądu do danych, ich poprawienia lub całkowitego usunięcia** – zgodnie z przepisami o ochronie danych osobowych.
+
+---
+
+### 3. Odpowiedzialność
+
+- Administrator nie ponosi odpowiedzialności za treści generowane przez bota ani za skutki ich wykorzystania przez użytkownika.
+- Bot może generować treści humorystyczne, ironiczne lub niespodziewane – nie należy traktować ich jako porady prawnej, medycznej ani żadnej innej specjalistycznej.
+
+---
+
+### 4. Zmiany w regulaminie
+
+- Administrator zastrzega sobie prawo do zmiany regulaminu w dowolnym momencie.
+- O wszelkich zmianach użytkownicy będą informowani przez aktualizację w README.md lub komunikat w serwerze Discord.
+
+---
+
+### 5. Akceptacja
+
+Rozpoczęcie korzystania z bota jest równoznaczne z pełną akceptacją niniejszego regulaminu i umowy użytkownika.
+
+> Jeśli nie akceptujesz warunków, nie korzystaj z bota i opuść wiadomość prywatną.
+
+
